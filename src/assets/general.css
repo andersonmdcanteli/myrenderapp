@@ -1,0 +1,38 @@
+
+.my_spacing {
+  text-align: 'justify';
+  padding-top: 0.25em;
+  text-indent: 2em;
+}
+
+.mathjax_equation {
+  font-size: 20px;
+}
+
+.equation_spacing {
+  text-align: 'center';
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.title_spacing {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+H2 {
+  color: DarkGreen;
+}
+
+.contact_icons {
+  color: DarkGreen;
+}
+
+
+.jumbotrom {
+  background-color: rgba(232,237,239,255);
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
+}

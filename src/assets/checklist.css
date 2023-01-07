@@ -1,0 +1,16 @@
+.my_box_container {
+  display: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+
+.my_box_input {
+  cursor: pointer;
+  margin-left: 15px;
+
+}
+
+.my_box_label {
+  padding: 0.5rem 1rem;
+}
